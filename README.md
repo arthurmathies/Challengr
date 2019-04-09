@@ -33,9 +33,6 @@
 ## Technologies
   ![](screenshots/techStack.png)
 
-## Screenshots
-  ![](screenshots/example.png)
-
 ## Team
   - Faisal Al Qasimi
   - Kevin Aujla
